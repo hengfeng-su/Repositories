@@ -1,11 +1,11 @@
 <?php
 namespace HengFeng\Repositories;
 
-use HengFeng\Repositories\Repository\Repository;
+use HengFeng\Repositories\Repository\Resp;
 
-class Demo implements Repository
+class Demo implements Resp
 {
-    public function test()
+    public function doSome()
     {
         echo 'test-for-update';
     }
