@@ -1,7 +1,9 @@
 <?php
 namespace HengFeng\Repositories;
 
-class Demo
+use HengFeng\Repositories\Repository\Repository;
+
+class Demo implements Repository
 {
     public function test()
     {
