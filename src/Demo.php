@@ -7,6 +7,6 @@ class Demo implements Repository
 {
     public function test()
     {
-        echo 'test';
+        echo 'test-for-update';
     }
 }
