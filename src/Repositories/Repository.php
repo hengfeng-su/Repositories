@@ -1,7 +1,7 @@
 <?php
 namespace HengFeng\Repositories\Repositories;
 
-interface Resp
+interface Repository
 {
     public function doSome();
 }
