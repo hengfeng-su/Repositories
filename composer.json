@@ -10,5 +10,10 @@
             "email": "hengfeng.su@happy-seed.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "HengFeng\\Repositories\\": "src/"
+        }
+    },
     "require": {}
 }
