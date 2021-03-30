@@ -1,5 +1,9 @@
 {
-    "name": "HengFeng/Repositories",
+    "name": "heng-feng/repositories",
+    "description": "repositories for dev",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "suhengfeng",
