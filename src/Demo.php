@@ -7,6 +7,6 @@ class Demo implements Resp
 {
     public function doSome()
     {
-        echo 'test-for-update-compser';
+        echo 'v1-test-for-update-compser';
     }
 }
